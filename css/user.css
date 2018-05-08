@@ -41,7 +41,7 @@
     padding-top: 10px;
     font-size: 0.85em;
 }
-.speaker .speaker-position {
+.speaker .speaker-position,.speaker .speaker-topic {
     text-align: center;
     padding-top: 0px;
     font-size: 0.75em;
