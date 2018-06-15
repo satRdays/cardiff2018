@@ -7,7 +7,7 @@
 
 # Site settings
 title: satRday in Cardiff
-email: satRday.cape.town@gmail.com
+email: satRday.cardiff@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A one day conference in Cardiff
 baseurl: "" # the subpath of your site, e.g. /blog
